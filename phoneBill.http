@@ -1,0 +1,8 @@
+Get http://localhost:3000/api/word_game?sentence=the sentence you want to analyze'
+####
+
+GET http://localhost:3000/api/word_game?sentence=Hello world this is a test
+####
+
+GET http://localhost:3000/api/word_game?sentence=This is A Mixed CASE Sentence
+####
